@@ -1,0 +1,16 @@
+﻿---------------------------------------------------------------
+• Please Subscribe My Channel •
+[ Masukan Perintah Ini Tanpa "$" ]
+$ apt update
+$ apt upgrade
+$ pkg install git
+$ pkg install python
+$ pkg install python2
+$ git clone http://github.com/reverse-shell/routersploit
+$ ls
+$ cd routersploit
+$ pip2 install requirement.txt
+$ pip2 install request
+$ pip install future
+$ python rsf.py
+---------------------------------------------------------------
